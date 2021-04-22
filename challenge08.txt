@@ -1,0 +1,8 @@
+## HOWTO
+
+- Download image 05-headache.png
+- Use strings
+- Get last line
+- GOTO https://www.dcode.fr/brainfuck-language
+- Decode string
+- THE CODE IS: WOLOLO!!
